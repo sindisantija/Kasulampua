@@ -1,0 +1,83 @@
+h4 a{
+    color:  rgb(244, 164, 96);
+    font-size: 15px;
+}
+.col-lg-9{
+    
+}
+.col-lg-3{
+    
+}
+.coba li{
+    display: inline;
+}
+.coba .fa{
+    padding-left: 10px;
+    margin-right: 6px;
+    font-size: 16px;
+}
+.info-meta p{
+    text-align: right;
+}
+.media-object{
+    width: 230px;
+    height: 180px;
+}
+
+.media-body{
+    margin-left: 10px;
+}
+
+.pemisah-btnnav{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.recent{
+    padding-top:20px;
+    position:relative;
+    text-align: center;
+    border-style: outset;
+    
+}
+.recent .img-responsive{
+    width: 180px;
+}
+.post-detail img .image{
+    width: 500px;
+}
+.info-meta{
+    padding-top: 10px;
+    color:rgba(8, 7, 7, 0.6);
+}
+p a .btn{
+    background: rgb(241, 160, 89) ;
+    border:  rgb(244, 164, 96);
+}
+p a .btn:hover{
+    background :rgba(8, 7, 7, 0.6);
+    border:rgba(8, 7, 7, 0.6);
+}
+a:focus, 
+a:hover {
+text-decoration: none;
+outline: none;
+color:  rgb(83, 72, 63);
+}
+.container{
+    padding-bottom: 10px;
+}
+.info-meta .list-inline li{
+    font-size: 12px;
+    display: inline;
+}
+.info-meta .list-inline li .fa{
+    font-size: 12px;
+  
+}
+.frame-tombol a{
+    text-align: center;
+}
+.frame-tombol .fab:hover{
+    color: rgb(244, 164, 96);
+}
